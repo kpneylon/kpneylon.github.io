@@ -1,14 +1,19 @@
 ---
 layout: post
-title:      "**Getting Back to Learning.**"
-date:       2019-11-03 22:32:38 +0000
+title:      "    Back to School"
+date:       2019-11-03 17:32:39 -0500
 permalink:  getting_back_to_learning
 ---
 
+		
+		Getting back to learning can be an extreme adventure and a very trying time.  A couple of years ago my wife and I had to return to my parents home being unable to afford our rent any longer. We quickly got settled into a routine and life continued. It didnt take long to realize that my current job would never allow us to move out again, so a search for new employment began.  Soon it became apparent that I would need to learn new skills in a new career field if I was to ever get my family on their own again.  My wife and I explored as many options as we could, she kept suggested the computer field.  This made perfect sense given my background.
+     
+		 Growing up my father was a computer programmer, not just he learned it in college. He actually took a course in it in hights school in 1969. My dad lived and breathed technology, he was at the forefront of any new tech that came out. In the late 80's my father and a friend opened a small business where they designed and built PC's and sold them to businesses and home users. Computers were and are a major part of my childhood and adulthood. 
+		 
+		 I took my job search to Googles career page to look at what requirements they had for potential new hires.  Their site had a link to a company called Career Karma. This app was designed by a few guys who broke into software development on their own. They decided to create an app to help people trying to get into software development. This app creates accountability for your journey into coding.  After completing their 21 day challenge you start applying to bootcamps to really get your hands on some coding.
+		 
+		 Thus was my journey to Flatiron. I began on the October cohort and began to really find out what coding was all about.  Turns out it was alot harder than I had anticipated, but I just kept pushing ahead.  Partially into my classes my father took a nasty fall, and ended up breaking some ribs and catching pnuemonia.  As we were living with my parents and he went on to partial disability, I picked up some hours at work and spent my spare time fixing the house up for his new mobility issues.  As a consequence my schooling fell to the wayside.   After meeting with my cohort lead, we decided that the next best course of action would be to move to a new cohort start and get a running start finishing this education.
+		 
+		 So here I am trying to get back into my classes and gain this understand I need to move into a better life for my family.  
 
-Deciding to venture back into learning can often be a huge process. Sometimes it feels as though it will be easy to just pick up a new craft and run into a different profession at a moments notice. Often you will come out of the gate in a rush and tumble headlong ahead and pick up every thing as it is presented to you without hesitation. This is how I felt when starting this bootcamp, even working a full time job I felt as though this will be terrific and all is going well.
-
-Turns out that life often has a funny way of reminding you of what is most important and you can lose your way quite easily. For me my aging father took precedence of this learning. He fell in a parking lot and fractured three ribs and generally just banged himself up pretty well. As if that wasnt enough he also contracted pnuemonia and ended up in the hospital where he resided for about 2 weeks. Of course this was really concerning, what ended up being worse was him having to go on disability and getting a cut in paychecks. I had to pick up extra hours to help bring the bills around so he would have a place to come home to. 
-
-One thing after another and it starts to feel as if I am so far behind that I am afraid I won't be able to get caught in time. Yet here I am turning in my first blog and just trying to take it one lesson at a time. Hopefully I can get caught back and get back on track to what I am hoping will be a better career and opportunity. I know this isnt exactly a technical blog, but this is what is on my mind right now. If you took the to read this, thank you for allowing me to vent on friendly ears.
 
