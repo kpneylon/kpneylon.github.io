@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**Sinatra Portfolio Project**"
-date:       2020-04-22 02:51:08 +0000
+date:       2020-04-21 22:51:09 -0400
 permalink:  sinatra_portfolio_project
 ---
 
@@ -10,13 +10,13 @@ permalink:  sinatra_portfolio_project
 
 To begin I learned how to set session in the application controller, this allows users to create a unique view of things that other users are unable to see.  All I required was a username and a password, this would allow the user to login and be shown their homepage.
 
-	 `get '/login' do
+	 get '/login' do
 		if !logged_in?
 		erb :'/users/login'
 		else
 			redirect "/users/#{current_user.slug}"
 		end
-	end`
+	end
 		
 Slug is a nifty tool I found I could use that would take any user input and remove any whitespace, making into dashes, and make any letters lowercase.  It also removes any special characters. This is to create a friendlier looking url for the user with all any special characters in it.
 
